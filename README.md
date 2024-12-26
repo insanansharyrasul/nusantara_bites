@@ -1,7 +1,7 @@
-<div align="center" style="text-align: center; height: 125px"> 
+<div align="center" style="text-align: center"> 
     <h1 style="border-bottom: 0; display: flex; align-items:center; height: 80px; transform: translate(25%, 25%)">
         Nusantara-Bites!
-        <img src="assets/nusantara_bites.svg" style="margin-left: 15">
+        <img src="assets/nusantara_bites.svg" style="margin-left: 15; height: 100px">
     <h1> 
 </div>
 
