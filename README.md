@@ -1,4 +1,4 @@
-<h1 align="center">Nusantara Bites!&nbsp;&nbsp;
+<h1 align="center">Nusantara-Bites!&nbsp;&nbsp;
     <img src="assets/nusantara_bites.svg" style="height: 100px" align="center">
 </h1>
 
