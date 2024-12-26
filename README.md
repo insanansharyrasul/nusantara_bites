@@ -1,24 +1,10 @@
-<style>
-    .wrapping_one h1 {
-        display: inline-block;
-        vertical-align: middle;
-        border-bottom: 0;
-        padding: 9px;
-    }
-
-    img {
-        display: inline-block;
-        vertical-align: middle;
-    }
-    
-    .wrapping_one {
-        border-bottom: 0.5px solid grey;
-    }
-</style>
-<div align="center" class="wrapping_one">
-    <h1 class="one">Nusantara-Bites!<h1>
-    <img src="assets/nusantara_bites.svg" height=75>
+<div align="center" style="text-align: center; height: 125px"> 
+    <h1 style="border-bottom: 0; display: flex; align-items:center; height: 80px; transform: translate(25%, 25%)">
+        Nusantara-Bites!
+        <img src="assets/nusantara_bites.svg" style="margin-left: 15">
+    <h1> 
 </div>
+
 <br>
 
 This is the source code for "**Nusantara-Bites!**", an application made to complete the final project of IDCamp 2024 of Multiplatform App Developer learning path of "Belajar Fundamental Aplikasi Flutter" class.
